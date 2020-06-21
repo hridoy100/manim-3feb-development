@@ -1,0 +1,7 @@
+file '/home/hridoy/pip/manimVersion/manim-3feb/videos/old_projects/sphere_area/480p15/partial_movie_files/ButWhyHappy/00000.mp4'
+file '/home/hridoy/pip/manimVersion/manim-3feb/videos/old_projects/sphere_area/480p15/partial_movie_files/ButWhyHappy/00001.mp4'
+file '/home/hridoy/pip/manimVersion/manim-3feb/videos/old_projects/sphere_area/480p15/partial_movie_files/ButWhyHappy/00002.mp4'
+file '/home/hridoy/pip/manimVersion/manim-3feb/videos/old_projects/sphere_area/480p15/partial_movie_files/ButWhyHappy/00003.mp4'
+file '/home/hridoy/pip/manimVersion/manim-3feb/videos/old_projects/sphere_area/480p15/partial_movie_files/ButWhyHappy/00004.mp4'
+file '/home/hridoy/pip/manimVersion/manim-3feb/videos/old_projects/sphere_area/480p15/partial_movie_files/ButWhyHappy/00005.mp4'
+file '/home/hridoy/pip/manimVersion/manim-3feb/videos/old_projects/sphere_area/480p15/partial_movie_files/ButWhyHappy/00006.mp4'
